@@ -9,7 +9,7 @@ description: 'Write an awesome description for your new site here. You can edit 
   results) and in your feed.xml site description.
 
 '
-baseurl: "/yinmi-blog"
+baseurl: ''
 url: http://yourdomain.com
 picturefill: false
 typekit_kit_id: kwf5dox
