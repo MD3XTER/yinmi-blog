@@ -4,12 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: img
-  label: Images
-  create: none
-  match: "*.png"
-  new_doc_ext: png
 - type: document
   path: _config.yml
   label: Site Description
