@@ -1,16 +1,16 @@
 ---
-title: Travelog
-author: Your name
-author_link: https://whatever.you/like
+title: Yin
+author: Yin
+author_link: https://www.instagram.com/xo8lx
 author_description: A few words to describe you & your face
-email: your-email@domain.com
+email: yinmitand11@gmail.com
 description: 'Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
 
 '
 baseurl: ''
-url: http://yourdomain.com
+url: https://yin.netlify.com
 picturefill: false
 typekit_kit_id: kwf5dox
 gems:
