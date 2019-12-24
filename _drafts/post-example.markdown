@@ -1,10 +1,12 @@
 ---
-layout: post
-title: Post Example
+layout: Poetry
+title: My sunshine
 date: 2019-12-24T12:05:14.000+00:00
 categories:
-- example
-location: Bali, Indonesia
+- Poetry
+- Made By Words
+- Quotes
+location: ''
 
 ---
 <div class="post-image post-image--split">
