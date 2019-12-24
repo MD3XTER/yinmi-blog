@@ -8,8 +8,8 @@ sections:
   path: img
   label: Images
   create: none
-  match: ".png"
-  new_doc_ext: ".png"
+  match: "*.png"
+  new_doc_ext: png
 - type: document
   path: _config.yml
   label: Site Description
