@@ -17,5 +17,3 @@ fields:
 - type: text
   name: location
   label: location
-pages:
-- _posts/2019-12-24-hello.md
