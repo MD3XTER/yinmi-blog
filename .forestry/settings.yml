@@ -7,9 +7,9 @@ sections:
 - type: directory
   path: img
   label: Images
-  create: documents
-  match: "**/*"
-  new_doc_ext: ".png"
+  create: all
+  match: "*"
+  new_doc_ext: ''
 - type: document
   path: _config.yml
   label: Site Description
