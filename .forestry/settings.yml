@@ -7,9 +7,9 @@ sections:
 - type: directory
   path: img
   label: Images
-  create: all
-  match: "*"
-  new_doc_ext: '20191214022915'
+  create: none
+  match: ".png"
+  new_doc_ext: ".png"
 - type: document
   path: _config.yml
   label: Site Description
