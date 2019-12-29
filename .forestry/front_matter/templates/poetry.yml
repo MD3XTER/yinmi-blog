@@ -5,7 +5,7 @@ fields:
 - type: text
   name: layout
   label: layout
-  default: Poetry
+  default: poetry
 - type: text
   name: title
   label: title
