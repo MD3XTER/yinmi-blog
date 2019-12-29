@@ -16,3 +16,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- _posts/addict.md

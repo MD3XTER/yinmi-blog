@@ -1,0 +1,13 @@
+---
+layout: Poetry
+date: 2019-12-29 23:39:31 +0800
+title: Addict
+categories:
+- poetry
+- made by words
+- words
+
+---
+there is caffeine on your lips 
+
+I'm addicted to it
